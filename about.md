@@ -10,6 +10,9 @@ textline: A multidisciplinary centre of experts who are essential to patient-ori
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
 services: []
+hero_button:
+  text: Linkkiteksti
+  href: https://www.larjuhelsinki.fi
 menu:
   footer:
     identifier: _about
